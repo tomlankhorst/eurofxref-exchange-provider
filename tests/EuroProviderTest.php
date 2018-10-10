@@ -13,7 +13,7 @@ use GuzzleHttp\Psr7\Response;
 use PHPUnit\Framework\TestCase;
 
 use \Mockery as m;
-use tomlankhorst\EuroFXRefCurrencyProvider\EuroProvider;
+use tomlankhorst\EuroFXRefExchangeProvider\EuroProvider;
 
 final class EuroProviderTest extends TestCase
 {

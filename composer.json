@@ -1,6 +1,6 @@
 {
-    "name": "tomlankhorst/eurofxref-currency-provider",
-    "description": "EuroFXRef Currency Provider for brick/money",
+    "name": "tomlankhorst/eurofxref-exchange-provider",
+    "description": "EuroFXRef Exchange Provider for brick/money",
     "type": "library",
     "license": "MIT",
     "authors": [

@@ -1,6 +1,6 @@
 <?php
 
-namespace tomlankhorst\EuroFXRefCurrencyProvider;
+namespace tomlankhorst\EuroFXRefExchangeProvider;
 
 use Brick\Math\BigDecimal;
 use Brick\Money\Exception\CurrencyConversionException;

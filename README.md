@@ -1,4 +1,4 @@
-EuroFXRef Currency Provider
+EuroFXRef Exchange Provider
 ======
 
 Conversion provider for [brick/money](https://github.com/brick/money) that uses ECB's daily reference rates.
