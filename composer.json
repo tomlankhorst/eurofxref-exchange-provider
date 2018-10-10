@@ -10,9 +10,9 @@
         }
     ],
     "autoload": {
-        "classmap": [
-            "src/"
-        ]
+        "psr-4": {
+            "tomlankhorst\\EuroFXRefExchangeProvider\\": "src/"
+        }
     },
     "require": {
         "php": "^7.1.3",
