@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "36752f3efa34c2b6f23ef733e6c186c7",
+    "content-hash": "9c40df4f5cff5980049d5299d4ebf206",
     "packages": [
         {
             "name": "brick/math",
@@ -51,16 +51,16 @@
         },
         {
             "name": "brick/money",
-            "version": "0.4.0",
+            "version": "0.3.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/brick/money.git",
-                "reference": "969b8c3c4080210fbc855953430aad15393892af"
+                "reference": "b95ec755c051826c7d8b294556961f3c013d4027"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/brick/money/zipball/969b8c3c4080210fbc855953430aad15393892af",
-                "reference": "969b8c3c4080210fbc855953430aad15393892af",
+                "url": "https://api.github.com/repos/brick/money/zipball/b95ec755c051826c7d8b294556961f3c013d4027",
+                "reference": "b95ec755c051826c7d8b294556961f3c013d4027",
                 "shasum": ""
             },
             "require": {
@@ -91,7 +91,7 @@
                 "currency",
                 "money"
             ],
-            "time": "2018-10-09T09:41:36+00:00"
+            "time": "2018-09-12T11:14:59+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
